@@ -26,6 +26,9 @@
     color: #00bcd4;
     margin-bottom: 0;
 }
+#error {
+    display: none;
+}
 .card-delete {
     position: absolute;
     right: 10px;
