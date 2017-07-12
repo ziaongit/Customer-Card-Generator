@@ -7,10 +7,11 @@
 }
 .col-xs-6.col-md-3 {
     border-left: 1px solid #d9d9d9;
-    min-height: 740px;
+    min-height: 500px;
+    border-bottom-right-radius: 15em;
 }
 .card {
-    background-color: #fff3f3;
+    background-color: #efefef;
     padding: 30px;
     margin-bottom: 20px;
     height: 180px;
